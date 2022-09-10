@@ -33,9 +33,9 @@ export const config = {
       // 想要发送的人的名字
       name: "杨桑0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oLxQU6Zj09qkeo24sMucA55i46T8,oLxQU6XIXNrHbJdwLGQqKZCCOQEQ,oLxQU6RzMB-RFS2UAPGGfnRs_pJc",
+      id: "oLxQU6RzMB-RFS2UAPGGfnRs_pJc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "f9zmvyu9_X2MGM01HL-nxgMLjdxVMyPXkIxX8zGlyHs",
+      useTemplateId: "e3GhXHshQzcjUtGeGcNn6EevC8me8Cnhy3zuyvsjVEQ",
       // 所在省份
       province: "陕西",
       // 所在城市
@@ -66,26 +66,26 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      name: "杜阳",
+      id: "oLxQU6Zj09qkeo24sMucA55i46T8",
+      useTemplateId: "BJVeAqVXBvkrzcnVn0POfF5wzMUFOv59GX-Nv3a12VU",
+      province: "陕西",
+      city: "宝鸡",
+      horoscopeDate: '04-22',
+      horoscopeDateType: '今日',
+      openUrl: "https://music.163.com/#/song?id=1345353903",
       festivals: [],
       customizedDateList: []
     },
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      name: "王tt你的生日我不知道",
+      id: "oLxQU6XIXNrHbJdwLGQqKZCCOQEQ",
+      useTemplateId: "XjfdNrsg9xFfsFizMyn4mtrJABAB67-pQBUfntUPg4M",
+      province: "陕西",
+      city: "咸阳",
+      horoscopeDate: '06-22',
+      horoscopeDateType: '今日',
+      openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
       festivals: [],
       customizedDateList: []
     },
@@ -200,7 +200,7 @@ export const config = {
 
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: ""
+  LITERARY_PREFERENCE: "https://s.weibo.com/top/summary?cate=realtimehot"
 
 
 }
