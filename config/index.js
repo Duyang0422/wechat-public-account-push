@@ -90,14 +90,14 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      name: "王八雨同学",
+      id: "oLxQU6T6bKyc14tFRTo01T1hLTVo",
+      useTemplateId: "1gTLa3YZHpZYS0oxOpwaf0uwwHYUDHOkHtEBuY1EEY8",
+      province: "山东",
+      city: "临沂",
+      horoscopeDate: '07-21',
+      horoscopeDateType: '今日',
+      openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
       festivals: [],
       customizedDateList: []
     },
