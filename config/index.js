@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oLxQU6RzMB-RFS2UAPGGfnRs_pJc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "e3GhXHshQzcjUtGeGcNn6EevC8me8Cnhy3zuyvsjVEQ",
+      useTemplateId: "9TfB5pNQN5fBTpp5s35Inogajs7aej59DMRTzyEotDg",
       // 所在省份
       province: "陕西",
       // 所在城市
@@ -68,7 +68,7 @@ export const config = {
     {
       name: "杜阳",
       id: "oLxQU6Zj09qkeo24sMucA55i46T8",
-      useTemplateId: "BJVeAqVXBvkrzcnVn0POfF5wzMUFOv59GX-Nv3a12VU",
+      useTemplateId: "mxRuvp-TQixFhzlw3upXv2aBZnhtGJKqHSS4ETAsb-4",
       province: "陕西",
       city: "宝鸡",
       horoscopeDate: '04-22',
@@ -80,7 +80,7 @@ export const config = {
     {
       name: "王tt你的生日我不知道",
       id: "oLxQU6XIXNrHbJdwLGQqKZCCOQEQ",
-      useTemplateId: "XjfdNrsg9xFfsFizMyn4mtrJABAB67-pQBUfntUPg4M",
+      useTemplateId: "WJT5_JVrtCzq0YS-y7pL3pZLTIb3gtSjZAjk5VXlCuw",
       province: "陕西",
       city: "咸阳",
       horoscopeDate: '06-22',
@@ -92,9 +92,9 @@ export const config = {
     {
       name: "王八雨同学",
       id: "oLxQU6T6bKyc14tFRTo01T1hLTVo",
-      useTemplateId: "1gTLa3YZHpZYS0oxOpwaf0uwwHYUDHOkHtEBuY1EEY8",
-      province: "山东",
-      city: "临沂",
+      useTemplateId: "FQJjYeGfskeZRQvUp0iwP_8cPilD8NeoJzAIeFZSV7w",
+      province: "山东省",
+      city: "临沂市",
       horoscopeDate: '07-21',
       horoscopeDateType: '今日',
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
@@ -108,7 +108,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "",
+  CALLBACK_TEMPLATE_ID: "oLxQU6Zj09qkeo24sMucA55i46T8",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -116,7 +116,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "oLxQU6Zj09qkeo24sMucA55i46T8",
     },
   ],
 
