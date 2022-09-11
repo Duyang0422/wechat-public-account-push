@@ -78,12 +78,12 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "王tt你的生日我不知道",
-      id: "oLxQU6XIXNrHbJdwLGQqKZCCOQEQ",
-      useTemplateId: "WJT5_JVrtCzq0YS-y7pL3pZLTIb3gtSjZAjk5VXlCuw",
-      province: "陕西",
-      city: "咸阳",
-      horoscopeDate: '06-22',
+      name: "小贺",
+      id: "oLxQU6Sez8l92MNnN9RsliiB6Egw",
+      useTemplateId: "-KZyVHBA7-fSIwlqj1SjWIUPB4xJqKqZDbB4l-ryL0c",
+      province: "河南",
+      city: "郑州",
+      horoscopeDate: '12-24',
       horoscopeDateType: '今日',
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
       festivals: [],
@@ -184,7 +184,7 @@ export const config = {
     * */
   SLOT_LIST: [
     // 这样配置的话，就会每次发送这句话
-    {"keyword": "encourage_oneself", contents: "你主要的问题在于读书太少而想得太多"},
+    {"keyword": "encourage_oneself", contents: "永远热泪盈眶，永远积极向上"},
     // 这样配置的话，就会每次随机选一句话发送
     {"keyword": "lover_prattle", contents: [
      "寒来暑往秋收冬藏，希望我们来日方长",
