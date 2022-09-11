@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oLxQU6RzMB-RFS2UAPGGfnRs_pJc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "9TfB5pNQN5fBTpp5s35Inogajs7aej59DMRTzyEotDg",
+      useTemplateId: "ZtPGuSUqiuboVUdTTSCkrtbvsxaBsw4PSqKLE1CQ50I",
       // 所在省份
       province: "陕西",
       // 所在城市
@@ -68,7 +68,7 @@ export const config = {
     {
       name: "杜阳",
       id: "oLxQU6Zj09qkeo24sMucA55i46T8",
-      useTemplateId: "mxRuvp-TQixFhzlw3upXv2aBZnhtGJKqHSS4ETAsb-4",
+      useTemplateId: "dUnM0JNkiKpqENSXzTAIociQ-cPUWYnpIDWpkOxVMIU",
       province: "陕西",
       city: "宝鸡",
       horoscopeDate: '04-22',
@@ -80,7 +80,7 @@ export const config = {
     {
       name: "小贺",
       id: "oLxQU6Sez8l92MNnN9RsliiB6Egw",
-      useTemplateId: "-KZyVHBA7-fSIwlqj1SjWIUPB4xJqKqZDbB4l-ryL0c",
+      useTemplateId: "8XgRvf1a5rW8_FcT19eejzrbWe18vBXPYYiegrKc0rs",
       province: "河南",
       city: "郑州",
       horoscopeDate: '12-24',
@@ -92,7 +92,7 @@ export const config = {
     {
       name: "王八雨同学",
       id: "oLxQU6T6bKyc14tFRTo01T1hLTVo",
-      useTemplateId: "FQJjYeGfskeZRQvUp0iwP_8cPilD8NeoJzAIeFZSV7w",
+      useTemplateId: "5k49Dgkr673UHqeQ2pVuAdtlAsBNu1VVJnHNH0mYIYU",
       province: "山东",
       city: "临沂",
       horoscopeDate: '07-21',
