@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oLxQU6RzMB-RFS2UAPGGfnRs_pJc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "RpUZNr_ErOXIUdXsuQnDzG8kZwjjYhzGiPLs9h3SQ0Q",
+      useTemplateId: "TQYJ-nqbAaNy6ZGbLw3IP-neufbN3WUQYxZPPMVenjU",
       // 
       province: "陕西",
       //
@@ -68,7 +68,7 @@ export const config = {
     {
       name: "杜阳",
       id: "oLxQU6Zj09qkeo24sMucA55i46T8",
-      useTemplateId: "P4DKy0icBj5lpKYMfRb5_d5xbGBnDjrjZYZ9tqhzu_0",
+      useTemplateId: "H2ojKE5g4_KWDpZNJIPtUi0KYJ9-1h4iAgmQecgwbyc",
       province: "陕西",
       city: "宝鸡",
       horoscopeDate: '04-22',
@@ -80,7 +80,7 @@ export const config = {
     {
       name: "小贺",
       id: "oLxQU6Sez8l92MNnN9RsliiB6Egw",
-      useTemplateId: "PV0UO7N5kqagsCv3PVJLCUBLkTK-sBNo89_y0Qamu-w",
+      useTemplateId: "91rwy18dSvQvwL9AErYfued5eM-F2XLPTupiDsMJCTs",
       province: "河南",
       city: "郑州",
       horoscopeDate: '12-24',
@@ -92,7 +92,7 @@ export const config = {
     {
       name: "石玉米",
       id: "oLxQU6Z5S2gVlwGtIgYlJs-0GuuQ",
-      useTemplateId: "2DsaIruRBYZsDK9M6xjWiopjoSpwsEpRCzwk3thMYYo",
+      useTemplateId: "rc0ZDpaLmFmx4-0ULNsLY3R99h8867GPGoLyD_5svqM",
       province: "陕西",
       city: "杨凌",
       horoscopeDate: '12-05',
@@ -104,7 +104,7 @@ export const config = {
     {
       name: "王八雨同学",
       id: "oLxQU6T6bKyc14tFRTo01T1hLTVo",
-      useTemplateId: "AjXJGUGkzcM85lbjVKqdDHpNPrMJpqFKp52H6LKGaIM",
+      useTemplateId: "mZM97_njtU0LFBnUVINS34ml7_QJG_Uzi5n9LsaSsi8",
       province: "山东",
       city: "临沂",
       horoscopeDate: '07-21',
@@ -121,7 +121,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "hfh3BuAB1hAKF_USCru1mFDDONIHfXZO27VGk4O2BfM",
+  CALLBACK_TEMPLATE_ID: "43Jqe_1Q3yK7EqgrNWeHM2OKWsN1knSY0qvBgeweD64",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
