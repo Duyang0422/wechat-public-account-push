@@ -35,11 +35,11 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oLxQU6RzMB-RFS2UAPGGfnRs_pJc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "ZtPGuSUqiuboVUdTTSCkrtbvsxaBsw4PSqKLE1CQ50I",
-      // 所在省份
+      useTemplateId: "RpUZNr_ErOXIUdXsuQnDzG8kZwjjYhzGiPLs9h3SQ0Q",
+      // 
       province: "陕西",
-      // 所在城市
-      city: "宝鸡",
+      //
+      city: "咸阳",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '06-20',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -53,7 +53,7 @@ export const config = {
         {"type": "节日", "咱": "认识", "year": "2019", "date": "09-05"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {"type": "生日", "杜": "帅比", "year": "2002", "date": "04-22"},
-        {"type": "节日", "小牛马": "最近找我唠嗑的时间", "year": "2022", "date": "09-09"},
+        {"type": "节日", "小牛马": "最近时间", "year": "2022", "date": "09-09"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
@@ -68,19 +68,19 @@ export const config = {
     {
       name: "杜阳",
       id: "oLxQU6Zj09qkeo24sMucA55i46T8",
-      useTemplateId: "dUnM0JNkiKpqENSXzTAIociQ-cPUWYnpIDWpkOxVMIU",
+      useTemplateId: "EdiO8qhPiAMylDfqnqlLJC28a0dKMpf2q12W_w_KJOQ",
       province: "陕西",
       city: "宝鸡",
       horoscopeDate: '04-22',
       horoscopeDateType: '今日',
-      openUrl: "https://music.163.com/#/song?id=1345353903",
+      openUrl: "https://www.cgjoy.com/forum.php?mod=forumdisplay&fid=23&filter=typeid&typeid=956#hot_map",
       festivals: [],
       customizedDateList: []
     },
     {
       name: "小贺",
       id: "oLxQU6Sez8l92MNnN9RsliiB6Egw",
-      useTemplateId: "8XgRvf1a5rW8_FcT19eejzrbWe18vBXPYYiegrKc0rs",
+      useTemplateId: "PV0UO7N5kqagsCv3PVJLCUBLkTK-sBNo89_y0Qamu-w",
       province: "河南",
       city: "郑州",
       horoscopeDate: '12-24',
@@ -90,9 +90,21 @@ export const config = {
       customizedDateList: []
     },
     {
+      name: "石玉米",
+      id: "oLxQU6Z5S2gVlwGtIgYlJs-0GuuQ",
+      useTemplateId: "2DsaIruRBYZsDK9M6xjWiopjoSpwsEpRCzwk3thMYYo",
+      province: "陕西",
+      city: "杨凌",
+      horoscopeDate: '12-05',
+      horoscopeDateType: '今日',
+      openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
+      festivals: [],
+      customizedDateList: []
+       },
+    {
       name: "王八雨同学",
       id: "oLxQU6T6bKyc14tFRTo01T1hLTVo",
-      useTemplateId: "5k49Dgkr673UHqeQ2pVuAdtlAsBNu1VVJnHNH0mYIYU",
+      useTemplateId: "AjXJGUGkzcM85lbjVKqdDHpNPrMJpqFKp52H6LKGaIM",
       province: "山东",
       city: "临沂",
       horoscopeDate: '07-21',
@@ -100,6 +112,7 @@ export const config = {
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
       festivals: [],
       customizedDateList: []
+      
     },
   ],
 
@@ -108,7 +121,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "oLxQU6Zj09qkeo24sMucA55i46T8",
+  CALLBACK_TEMPLATE_ID: "hfh3BuAB1hAKF_USCru1mFDDONIHfXZO27VGk4O2BfM",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -127,9 +140,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "陕西",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "宝鸡",
 
   /** 重要节日相关 */
 
@@ -192,7 +205,23 @@ export const config = {
       "慢慢来，谁还没有一个努力得过程",
       "可以不万丈光芒，但不要停止自己发光",
       "你坚持的东西总有一天会反过来拥抱你",
-       "永远热泪盈眶，永远积极向上",
+      "山前山后都有风景有风无风都很自由 ",
+      "热爱漫无边际生活自有分寸"
+      "所有的惊艳都曾被平凡历练"
+      "别人家屋檐再大都不如自己有把雨伞"
+      "请努力向上，成为别人眼中遥不可及的光"
+      "生命中所有的不期而遇都是你努力的惊喜！"
+      "人生的路程就像爬山一样，看起来走了许多冤枉的路，但最终都会到达山顶"
+      "当你的能力还驾驭不了你的目标时那你就应该沉下心来历练."
+      "去成为自己心中的那个理想的大人."
+      "变好的过程都不太舒服，试试再努力点"
+      "任何的限制都是从自己的内心开始的."
+      "待到顶峰相见，你我都能热笑相迎."
+      "远在远方的风比远方更远"
+      "相信所有的汗水与眼泪，最后会化成一篇山花烂漫"
+      "你坚持的东西，总有一天会反过来拥抱你！"
+      "要平安健康的长大，也望肆意潇洒"
+      "别再最好的年纪辜负了最好的自己."
     ]},
   ],
 
