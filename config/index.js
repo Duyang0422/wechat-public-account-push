@@ -68,7 +68,7 @@ export const config = {
     {
       name: "杜阳",
       id: "oLxQU6Zj09qkeo24sMucA55i46T8",
-      useTemplateId: "EdiO8qhPiAMylDfqnqlLJC28a0dKMpf2q12W_w_KJOQ",
+      useTemplateId: "P4DKy0icBj5lpKYMfRb5_d5xbGBnDjrjZYZ9tqhzu_0",
       province: "陕西",
       city: "宝鸡",
       horoscopeDate: '04-22',
