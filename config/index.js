@@ -124,8 +124,7 @@ export const config = {
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
       festivals: [],
       customizedDateList: []
-      
-    },
+      },
   ],
 
   /**
