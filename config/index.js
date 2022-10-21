@@ -113,18 +113,6 @@ export const config = {
       festivals: [],
       customizedDateList: []
        },
-    {
-      name: "莫小雪",
-      id: "oLxQU6fsEDnEM1G0b4N46slVpfOw",
-      useTemplateId: "UfyL4hbF-R66GT6Wnmdu2g3y_Oo8rMifrGv3sP6LkNQ",
-      province: "陕西",
-      city: "西安",
-      horoscopeDate: '11-28',
-      horoscopeDateType: '今日',
-      openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
-      festivals: [],
-      customizedDateList: []
-       },
   ],
 
   /**
