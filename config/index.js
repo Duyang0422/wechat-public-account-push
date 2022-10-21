@@ -76,7 +76,7 @@ export const config = {
       openUrl: "https://www.cgjoy.com/forum.php?mod=forumdisplay&fid=23&filter=typeid&typeid=956#hot_map",
       festivals: [],
       customizedDateList: []
-    },
+       },
     {
       name: "小贺",
       id: "oLxQU6Sez8l92MNnN9RsliiB6Egw",
@@ -88,7 +88,7 @@ export const config = {
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
       festivals: [],
       customizedDateList: []
-    },
+       },
     {
       name: "石玉米",
       id: "oLxQU6Z5S2gVlwGtIgYlJs-0GuuQ",
@@ -113,6 +113,18 @@ export const config = {
       festivals: [],
       customizedDateList: []
        },
+    {
+      name: "莫大头同学",
+      id: "oLxQU6fsEDnEM1G0b4N46slVpfOw",
+      useTemplateId: "UfyL4hbF-R66GT6Wnmdu2g3y_Oo8rMifrGv3sP6LkNQ",
+      province: "陕西",
+      city: "西安",
+      horoscopeDate: '11-28',
+      horoscopeDateType: '今日',
+      openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
+      festivals: [],
+      customizedDateList: []
+       },  
   ],
 
   /**
