@@ -112,7 +112,7 @@ export const config = {
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
       festivals: [],
       customizedDateList: []
-      },
+       },
     {
       name: "莫小雪",
       id: "oLxQU6fsEDnEM1G0b4N46slVpfOw",
@@ -124,7 +124,7 @@ export const config = {
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
       festivals: [],
       customizedDateList: []
-      },
+       },
   ],
 
   /**
