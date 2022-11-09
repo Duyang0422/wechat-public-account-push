@@ -90,6 +90,18 @@ export const config = {
       customizedDateList: []
        },
     {
+      name: "小杨同学",
+      id: "oLxQU6RCkPLVmQboFHPN5SXkU3mM",
+      useTemplateId: "AjXJGUGkzcM85lbjVKqdDHpNPrMJpqFKp52H6LKGaIM",
+      province: "陕西",
+      city: "杨凌",
+      horoscopeDate: '12-23',
+      horoscopeDateType: '今日',
+      openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
+      festivals: [],
+      customizedDateList: []
+      },
+    {
       name: "石玉米",
       id: "oLxQU6Z5S2gVlwGtIgYlJs-0GuuQ",
       useTemplateId: "rc0ZDpaLmFmx4-0ULNsLY3R99h8867GPGoLyD_5svqM",
