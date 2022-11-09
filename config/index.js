@@ -92,7 +92,7 @@ export const config = {
     {
       name: "小杨同学",
       id: "oLxQU6RCkPLVmQboFHPN5SXkU3mM",
-      useTemplateId: "AjXJGUGkzcM85lbjVKqdDHpNPrMJpqFKp52H6LKGaIM",
+      useTemplateId: "DvJcjH2lZ54LTqTkAWbPEPJYHEOAQQlWcuDDVphJbik",
       province: "陕西",
       city: "杨凌",
       horoscopeDate: '12-23',
