@@ -251,7 +251,7 @@ export const config = {
   /** 每日一言 */
 
   // 好文节选的内容类型
-  // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
+  // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 "小说"
   LITERARY_PREFERENCE: "https://s.weibo.com/top/summary?cate=realtimehot"
 
 
