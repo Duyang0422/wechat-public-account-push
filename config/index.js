@@ -94,7 +94,7 @@ export const config = {
       id: "oLxQU6RCkPLVmQboFHPN5SXkU3mM",
       useTemplateId: "DvJcjH2lZ54LTqTkAWbPEPJYHEOAQQlWcuDDVphJbik",
       province: "陕西",
-      city: "杨凌",
+      city: "咸阳",
       horoscopeDate: '12-23',
       horoscopeDateType: '今日',
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
